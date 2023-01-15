@@ -16,3 +16,13 @@ Don't forget to replace `<your-pword>` with DockerHub access token!
 2. Create secret resource for environment variables of the application
 3. Create a domain and point A record to the server
 4. Generate SSL certificate for a domain
+
+
+TODO:
+1. Ingress NGINX
+2. cert-manager + letsencrypt issuers
+3. Keycloak/Vault/ESO
+4. kube-state-metrics, node-exporter
+5. Service Accounts
+6. Namespaces
+7. Datadog/Sumologic/Elastic stack+ Elastic Agent
